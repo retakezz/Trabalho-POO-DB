@@ -16,6 +16,11 @@
 * [Integrante 1](https://github.com/KahuaOliveira) Kahuã Oliveira 
 * [Integrante 2](https://github.com/retakezz) Jonas Evangelista 
 
+### 👔 Docentes e Orientação
+
+* *Orientador(a):* [Guilherme Nogueira]
+* *Coordenador(a):* [Guilherme Nogueira]
+
 
 ### 📄 Identificação
 
@@ -25,7 +30,7 @@
 ### ⚡️ Arquitetura e Stack Utilizado
 
 * **Linguagem de Programação:** Ex.: Python, SQL
-* **Banco de Dados: MySQL
+* **Banco de Dados:** MySQL
 
 
 
