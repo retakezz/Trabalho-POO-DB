@@ -1,17 +1,11 @@
-[README.md](https://github.com/user-attachments/files/28777611/README.md)
-# UNIBRAS - Modelo de Documento para Projetos, Pesquisas e Disciplinas Específicas
-
 <p align="center">
   <img src="./assets/unibras-logo.png" width="70%">
 </p>
 
 ---
 
-## 📌 Título do Projeto
+## 📌 Magia & Aço
 
-> Breve linha de destaque ou slogan técnico do projeto.
-
-![status](https://img.shields.io/badge/status-em%20andamento-yellow)
 
 ---
 
@@ -19,16 +13,13 @@
 
 ### 👥 Alunos
 
-* [Integrante 1](https://www.linkedin.com/in/.../)
-* [Integrante 2](https://www.linkedin.com/in/.../)
-* [Integrante 3](https://www.linkedin.com/in/.../)
-* [Integrante 4](https://www.linkedin.com/in/.../)
-* [Integrante 5](https://www.linkedin.com/in/.../)
+* [Integrante 1](https://github.com/KahuaOliveira) Kahuã Oliveira 
+* [Integrante 2](https://github.com/retakezz) Jonas Evangelista 
 
 ### 👔 Docentes e Orientação
 
-* **Orientador(a):** [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/)
-* **Coordenador(a):** [Nome do Coordenador(a)](#)
+* **Orientador(a):** Guilherme Nogueira
+* **Coordenador(a):** [Guilherme Nogueira](#)
 
 ---
 
