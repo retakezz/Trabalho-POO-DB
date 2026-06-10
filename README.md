@@ -2,7 +2,7 @@
 # UNIBRAS - Modelo de Documento para Projetos, Pesquisas e Disciplinas Específicas
 
 <p align="center">
-  <a href="https://sejaunibras.com.br"><img src="assets/unibras-logo.png" alt="UNIBRAS - União Brasileira de Desenvolvimento Social" border="0" width="70%" /></a>
+  <img src="./assets/unibras-logo.png" width="70%">
 </p>
 
 ---
